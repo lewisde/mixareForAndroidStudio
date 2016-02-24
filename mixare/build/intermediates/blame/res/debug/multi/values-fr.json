@@ -1,0 +1,1417 @@
+[
+    {
+        "outputFile": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/values-fr/values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 31,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 31,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 31,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 31,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 33,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 33,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 33,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 33,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 31,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 31,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 33,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 33,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 303,
+                    "endColumn": 33,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 33,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 31,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 31,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 47,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 2924,
+                        "endColumn": 44,
+                        "endOffset": 2967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 47,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 2840,
+                        "endColumn": 44,
+                        "endOffset": 2883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 43,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 47,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2582,
+                        "endColumn": 44,
+                        "endOffset": 2625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 288,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3727,
+                        "endColumn": 292,
+                        "endOffset": 4015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 132,
+                    "endOffset": 974
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 132,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 979,
+                    "endColumn": 211,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 215,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 131,
+                    "endOffset": 1318
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 131,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1323,
+                    "endColumn": 135,
+                    "endOffset": 1454
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 135,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1459,
+                    "endColumn": 236,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 240,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 236,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 240,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 134,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 134,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endColumn": 195,
+                    "endOffset": 2259
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2911,
+                        "endColumn": 195,
+                        "endOffset": 3102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2264,
+                    "endColumn": 122,
+                    "endOffset": 2382
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2788,
+                        "endColumn": 122,
+                        "endOffset": 2906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2387,
+                    "endColumn": 192,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2595,
+                        "endColumn": 192,
+                        "endOffset": 2783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 119,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2475,
+                        "endColumn": 119,
+                        "endOffset": 2590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 142,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 142,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2843,
+                    "endColumn": 180,
+                    "endOffset": 3019
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4460,
+                        "endColumn": 180,
+                        "endOffset": 4636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3024,
+                    "endColumn": 124,
+                    "endOffset": 3144
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4335,
+                        "endColumn": 124,
+                        "endOffset": 4455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3149,
+                    "endColumn": 185,
+                    "endOffset": 3330
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4149,
+                        "endColumn": 185,
+                        "endOffset": 4330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3335,
+                    "endColumn": 128,
+                    "endOffset": 3459
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 4020,
+                        "endColumn": 128,
+                        "endOffset": 4144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3464,
+                    "endColumn": 287,
+                    "endOffset": 3747
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-fr/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 291,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3752,
+                    "endColumn": 275,
+                    "endOffset": 4023
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3231,
+                        "endColumn": 279,
+                        "endOffset": 3506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4028,
+                    "endColumn": 123,
+                    "endOffset": 4147
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3107,
+                        "endColumn": 123,
+                        "endOffset": 3226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4152,
+                    "endColumn": 113,
+                    "endOffset": 4261
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3511,
+                        "endColumn": 113,
+                        "endOffset": 3620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4266,
+                    "endColumn": 215,
+                    "endOffset": 4477
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1685,
+                        "endColumn": 219,
+                        "endOffset": 1900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4482,
+                    "endColumn": 137,
+                    "endOffset": 4615
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1547,
+                        "endColumn": 137,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4620,
+                    "endColumn": 218,
+                    "endOffset": 4834
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2252,
+                        "endColumn": 222,
+                        "endOffset": 2470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4839,
+                    "endColumn": 137,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2114,
+                        "endColumn": 137,
+                        "endOffset": 2247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 208,
+                    "endOffset": 5181
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1905,
+                        "endColumn": 208,
+                        "endOffset": 2109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5186,
+                    "endColumn": 101,
+                    "endOffset": 5283
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3625,
+                        "endColumn": 101,
+                        "endOffset": 3722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5288,
+                    "endColumn": 96,
+                    "endOffset": 5380
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4641,
+                        "endColumn": 96,
+                        "endOffset": 4733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5385,
+                    "endColumn": 113,
+                    "endOffset": 5494
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-fr/base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4738,
+                        "endColumn": 113,
+                        "endOffset": 4847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5499,
+                    "endColumn": 67,
+                    "endOffset": 5562
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2298,
+                        "endColumn": 64,
+                        "endOffset": 2361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5567,
+                    "endColumn": 64,
+                    "endOffset": 5627
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 2363,
+                        "endColumn": 61,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5632,
+                    "endLine": 46,
+                    "endColumn": 49,
+                    "endOffset": 5821
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2107,
+                        "endLine": 42,
+                        "endColumn": 49,
+                        "endOffset": 2296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5826,
+                    "endColumn": 159,
+                    "endOffset": 5981
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1732,
+                        "endColumn": 156,
+                        "endOffset": 1887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5986,
+                    "endColumn": 69,
+                    "endOffset": 6051
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1889,
+                        "endColumn": 66,
+                        "endOffset": 1954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6056,
+                    "endColumn": 84,
+                    "endOffset": 6136
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1956,
+                        "endColumn": 81,
+                        "endOffset": 2036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6141,
+                    "endColumn": 69,
+                    "endOffset": 6206
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2038,
+                        "endColumn": 66,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6211,
+                    "endColumn": 88,
+                    "endOffset": 6295
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 3487,
+                        "endColumn": 85,
+                        "endOffset": 3571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6300,
+                    "endColumn": 86,
+                    "endOffset": 6382
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 3403,
+                        "endColumn": 83,
+                        "endOffset": 3485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6387,
+                    "endColumn": 90,
+                    "endOffset": 6473
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 1,
+                        "startOffset": 3315,
+                        "endColumn": 87,
+                        "endOffset": 3401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6478,
+                    "endColumn": 187,
+                    "endOffset": 6661
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 187,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6666,
+                    "endColumn": 56,
+                    "endOffset": 6718
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 2694,
+                        "endColumn": 53,
+                        "endOffset": 2746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6723,
+                    "endColumn": 67,
+                    "endOffset": 6786
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2627,
+                        "endColumn": 64,
+                        "endOffset": 2690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6791,
+                    "endColumn": 55,
+                    "endOffset": 6842
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 2969,
+                        "endColumn": 52,
+                        "endOffset": 3020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6847,
+                    "endColumn": 47,
+                    "endOffset": 6890
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 2795,
+                        "endColumn": 44,
+                        "endOffset": 2838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6895,
+                    "endLine": 68,
+                    "endColumn": 10,
+                    "endOffset": 7619
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 672,
+                        "endLine": 25,
+                        "endColumn": 10,
+                        "endOffset": 1399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7624,
+                    "endColumn": 49,
+                    "endOffset": 7669
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 2535,
+                        "endColumn": 46,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7674,
+                    "endColumn": 49,
+                    "endOffset": 7719
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 2748,
+                        "endColumn": 46,
+                        "endOffset": 2793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7724,
+                    "endColumn": 75,
+                    "endOffset": 7795
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 1,
+                        "startOffset": 3240,
+                        "endColumn": 72,
+                        "endOffset": 3311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7800,
+                    "endColumn": 52,
+                    "endOffset": 7848
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 3135,
+                        "endColumn": 49,
+                        "endOffset": 3183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7853,
+                    "endColumn": 54,
+                    "endOffset": 7903
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 3024,
+                        "endColumn": 51,
+                        "endOffset": 3074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7908,
+                    "endColumn": 61,
+                    "endOffset": 7965
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 3076,
+                        "endColumn": 58,
+                        "endOffset": 3133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7970,
+                    "endColumn": 55,
+                    "endOffset": 8021
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 1,
+                        "startOffset": 3185,
+                        "endColumn": 52,
+                        "endOffset": 3236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8026,
+                    "endColumn": 47,
+                    "endOffset": 8069
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1403,
+                        "endColumn": 44,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8074,
+                    "endColumn": 49,
+                    "endOffset": 8119
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1448,
+                        "endColumn": 46,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8124,
+                    "endColumn": 49,
+                    "endOffset": 8169
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1495,
+                        "endColumn": 46,
+                        "endOffset": 1540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8174,
+                    "endColumn": 54,
+                    "endOffset": 8224
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1542,
+                        "endColumn": 51,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8229,
+                    "endColumn": 49,
+                    "endOffset": 8274
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1594,
+                        "endColumn": 46,
+                        "endOffset": 1639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8279,
+                    "endColumn": 44,
+                    "endOffset": 8319
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1641,
+                        "endColumn": 41,
+                        "endOffset": 1681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8324,
+                    "endColumn": 47,
+                    "endOffset": 8367
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1683,
+                        "endColumn": 44,
+                        "endOffset": 1726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8372,
+                    "endColumn": 108,
+                    "endOffset": 8476
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2427,
+                        "endColumn": 105,
+                        "endOffset": 2531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8481,
+                    "endColumn": 118,
+                    "endOffset": 8595
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 554,
+                        "endColumn": 115,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8600,
+                    "endColumn": 41,
+                    "endOffset": 8637
+                },
+                "from": {
+                    "file": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 2885,
+                        "endColumn": 38,
+                        "endOffset": 2922
+                    }
+                }
+            }
+        ]
+    }
+]

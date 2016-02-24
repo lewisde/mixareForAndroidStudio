@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="CIRCLE_MARKER">Cerchi</string>
+    <string name="E">E</string>
+    <string name="MIXARE">Mixare</string>
+    <string name="N">N</string>
+    <string name="NAVIGATION_MARKER">Frecce</string>
+    <string name="NE">NE</string>
+    <string name="NW">NO</string>
+    <string name="OSM">Openstreetmap</string>
+    <string name="S">S</string>
+    <string name="SE">SE</string>
+    <string name="SW">SO</string>
+    <string name="W">O</string>
+    <string name="accuracy">Precisione: </string>
+    <string name="add_osm_menu">Aggiungi OpenStreetMap URL</string>
+    <string name="altitude">Altitudine: </string>
+    <string name="app_name">Mixare</string>
+    <string name="cancel">Annulla</string>
+    <string name="close_button">Chiudi</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> richiede uno o più servizi di Google Play che non sono attualmente disponibili. Contatta lo sviluppatore per ricevere assistenza."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Attiva Google Play Services"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non attivi Google Play Services."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Attiva Google Play Services"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Installa Google Play Services"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo telefono."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo tablet."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Installa Google Play Services"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"L\'account specificato non esiste su questo dispositivo. Scegli un altro account."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Account non valido"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"È necessaria una connessione dati per connettersi a Google Play Services."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Errore di rete"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Errore Google Play Services"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"L\'accesso agli account da un profilo con limitazioni non è supportato."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Profilo con limitazioni"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Errore durante l\'accesso all\'account specificato. Scegli un altro account."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Accesso non riuscito"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Se il problema persiste, contatta lo sviluppatore per ricevere assistenza."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> si basa su Google Play Services, che non è supportato sul tuo dispositivo. Contatta il produttore per ricevere assistenza."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play Services"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Aggiorna"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non aggiorni Google Play Services."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Aggiorna Google Play Services"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, attualmente in fase di aggiornamento."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Aggiornamento di Google Play Services"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L\'aggiornamento automatico verrà eseguito a breve."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Apri sul telefono"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Accedi"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Accedi con Google"</string>
+    <string name="connection_GPS_dialog_button1">Continua</string>
+    <string name="connection_GPS_dialog_button2">Chiudi mixare</string>
+    <string name="connection_GPS_dialog_text">Impossibile ottenere la posizione corretta\nSe si continua é possibile che le informazioni\nnon siano mostrate nella posizione corretta.</string>
+    <string name="connection_error_dialog">I dati non possono essere scaricati!\nControllare che la connessione ad internet sia attiva.</string>
+    <string name="connection_error_dialog_button1">Riprova</string>
+    <string name="connection_error_dialog_button2">Apri impostazioni</string>
+    <string name="connection_error_dialog_button3">Chiudi mixare</string>
+    <string name="data_source_add">Aggiungi sorgente dati</string>
+    <string name="data_source_change_osm">Vengono mostrati dati da OpenStreetMap</string>
+    <string name="data_source_change_twitter">Vengono mostrati dati da Twitter</string>
+    <string name="data_source_change_wikipedia">Vengono mostrati dati da Wikipedia</string>
+    <string name="data_source_delete">Rimuovi sorgente dati</string>
+    <string name="data_source_delete_err">Questa sorgente dati non può essere rimossa.</string>
+    <string name="data_source_edit">Modifica sorgente dati</string>
+    <string name="data_source_edit_err">Questa sorgente dati non può essere modificata.</string>
+    <string name="download_error">Errore nella fase di aggiornamento dati</string>
+    <string name="download_received">Dati aggiornati da </string>
+    <string name="empty_list">Purtroppo non sono disponibili informazioni\nin quest\'area. Provare ad aumentare il raggio.</string>
+    <string name="general_info_text">GPS info: </string>
+    <string name="general_info_title">Informazioni generali</string>
+    <string name="gps_last_fix">Ultimo GPS update: </string>
+    <string name="insert_osm_url">Inserici OpenStreetMap URL</string>
+    <string name="latitude">Latitudine: </string>
+    <string name="license">Copyright © 2010- Peer internet solutions 
+		\n\nThis program is free software: 	you can redistribute it and/or modify it under the terms of the 
+		GNU General Public License as published by the Free Software Foundation, either version 3 of the License, 
+		or at your option) any later version. 
+		\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even 
+		the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
+		License for more details. 
+		\n\n You should have received a copy of the GNU General Public License along with this program. 
+		If not, see &lt;http://www.gnu.org/licenses/>
+	</string>
+    <string name="license_title">Licenza</string>
+    <string name="location_not_found">Posizione non stabilita, assicurarsi di aver abilitato la geolocalizzazione tramite Wifi o GPS.</string>
+    <string name="longitude">Longitudine: </string>
+    <string name="map_current_location_click">La tua posizione</string>
+    <string name="map_menu_cam_mode">Camera</string>
+    <string name="map_menu_normal_mode">Mappa</string>
+    <string name="map_menu_satellite_mode">Satellite</string>
+    <string name="map_my_location">La mia posizione</string>
+    <string name="menu_item_1">Scelta delle fonti</string>
+    <string name="menu_item_2">Lista dei risultati</string>
+    <string name="menu_item_3">Mappa</string>
+    <string name="menu_item_4">Raggio visualizzato</string>
+    <string name="menu_item_5">Ricerca</string>
+    <string name="menu_item_6">Info</string>
+    <string name="menu_item_7">Licenza</string>
+    <string name="no_website_available">Ci dispiace, non sono disponibili ulteriori informazioni</string>
+    <string name="option_not_available">Questa opzione sará disponibile in\nuna versione futura dell\'applicazione!</string>
+    <string name="osm_max_object_menu">Inposta il massimo numero di punti di interesse per URL</string>
+    <string name="refreshing">Aggiornamento</string>
+    <string name="search_active_1">Ricerca nella fonte dei dati di</string>
+    <string name="search_active_2">. Clicca qui per terminare la ricerca</string>
+    <string name="search_failed_notification">Nessun risultato di ricerca</string>
+    <string name="search_hint">Cerca Luogo</string>
+    <string name="set_osm_max_object">Massimo numero di punti di interesse per URL</string>
+    <string name="source_openstreetmap">Stazioni nei dintorni</string>
+    <string name="speed">velocità: </string>
+</resources>

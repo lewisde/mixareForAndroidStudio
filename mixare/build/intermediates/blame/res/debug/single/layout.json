@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/layout/splashscreen.xml",
+        "source": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/layout/splashscreen.xml"
+    },
+    {
+        "merged": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/layout/datasourcedetails.xml",
+        "source": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/layout/datasourcedetails.xml"
+    },
+    {
+        "merged": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/layout/datasourcelist.xml",
+        "source": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/layout/datasourcelist.xml"
+    }
+]

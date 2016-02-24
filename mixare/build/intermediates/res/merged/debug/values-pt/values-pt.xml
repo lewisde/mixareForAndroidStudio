@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="E">E</string>
+    <string name="N">N</string>
+    <string name="NE">NE</string>
+    <string name="NW">NO</string>
+    <string name="S">S</string>
+    <string name="SE">SE</string>
+    <string name="SW">SO</string>
+    <string name="W">O</string>
+    <string name="accuracy">Precisão: </string>
+    <string name="add_osm_menu">Adicionar URL OpenStreetMap</string>
+    <string name="altitude">Altitude: </string>
+    <string name="app_name">Mixare</string>
+    <string name="close_button">Fechar</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> exige um ou mais serviços do Google Play que não estão disponíveis no momento. Entre em contato com o desenvolvedor para receber ajuda."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Ativar o Google Play Services"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> só funciona com o Google Play Services ativado."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Ativar o Google Play Services"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Instalar o Google Play Services"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual não está instalado no seu smartphone."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual não está instalado no seu tablet."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Instalar o Google Play Services"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"A conta especificada não existe no dispositivo. Escolha outra conta."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Conta inválida"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"É necessária uma conexão de dados para conectar ao Google Play Services."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Erro na rede"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Erro do Google Play Services"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"O acesso a contas a partir de um perfil restrito não é compatível."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Perfil restrito"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Erro ao fazer login na conta especificada. Escolha outra conta."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Falha de login"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> está tendo problemas com os serviços do Google Play. Se o problema persistir, entre em contato com o desenvolvedor para receber ajuda."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> depende do Google Play Services, o qual não é compatível com seu dispositivo. Entre em contato com o fabricante para receber ajuda."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play Services"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Atualizar"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> só funciona com uma versão atualizada do Google Play Services."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Atualizar o Google Play Services"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Google Play Services em atualização"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"É necessária uma nova versão do Google Play Services. Ele será atualizado em breve."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Abrir no smartphone"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Fazer login"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Fazer login com o Google"</string>
+    <string name="connection_GPS_dialog_button1">Continuar</string>
+    <string name="connection_GPS_dialog_button2">Fechar</string>
+    <string name="connection_GPS_dialog_text">Informação de GPS não pode ser atualizada! A
+		informação poderá não ser mostrada nos locais corretos.
+	</string>
+    <string name="connection_error_dialog">Erro de ligação. Por favor, verifique a ligação à
+		Internet.
+	</string>
+    <string name="connection_error_dialog_button1">Repetir</string>
+    <string name="connection_error_dialog_button2">Abrir opções</string>
+    <string name="connection_error_dialog_button3">Fechar</string>
+    <string name="data_source_add">Adicionar base de dados</string>
+    <string name="data_source_change_osm">A base de dados mudou para o OpenStreetMap</string>
+    <string name="data_source_change_twitter">A base de dados mudou para o Twitter</string>
+    <string name="data_source_change_wikipedia">A base de dados mudou para a Wikipedia</string>
+    <string name="data_source_delete">Apagar base de dados</string>
+    <string name="data_source_edit">Editar base de dados</string>
+    <string name="download_error">Erro no download</string>
+    <string name="download_received">Dados recebidos de</string>
+    <string name="empty_list">Desculpe! Não existe informação disponível para
+		este raio. Por favor, procurar com um raio maior.
+	</string>
+    <string name="general_info_text">GPS info: </string>
+    <string name="general_info_title">Informação geral</string>
+    <string name="gps_last_fix">Última posição conhecida: </string>
+    <string name="insert_osm_url">Inserir URL OpenStreetMap</string>
+    <string name="latitude">Latitude: </string>
+    <string name="license">Copyright (C) 2010- Peer internet solutions
+		\n\nThis program is free software: you can redistribute it and/or
+		modify it under the terms of the
+		GNU General Public License as
+		published by the Free Software Foundation,
+		either version 3 of the
+		License,
+		or at your option) any later version.
+		\n\nThis program is
+		distributed in the hope that it will be useful, but
+		WITHOUT ANY
+		WARRANTY; without even
+		the implied warranty of MERCHANTABILITY or
+		FITNESS FOR A PARTICULAR
+		PURPOSE. See the GNU General Public
+		License for
+		more details.
+		\n\n You should have received a copy of the GNU General
+		Public License
+		along with this program.
+		If not, see
+		&lt;http://www.gnu.org/licenses/> </string>
+    <string name="license_title">Licença</string>
+    <string name="longitude">Longitude: </string>
+    <string name="map_current_location_click">Localização actual</string>
+    <string name="map_menu_cam_mode">Câmara</string>
+    <string name="map_menu_normal_mode">Mapa</string>
+    <string name="map_menu_satellite_mode">Satélite</string>
+    <string name="map_my_location">Minha localização</string>
+    <string name="menu_item_1">Base de dados</string>
+    <string name="menu_item_2">Lista</string>
+    <string name="menu_item_3">Mapa</string>
+    <string name="menu_item_4">Zoom</string>
+    <string name="menu_item_5">Procura</string>
+    <string name="menu_item_6">Informação</string>
+    <string name="menu_item_7">Licença</string>
+    <string name="no_website_available">Desculpe. Não existe mais informação disponível
+	</string>
+    <string name="option_not_available">Desculpe! Estamos a trabalhar nisto... \nEsta opção
+		estará disponível em breve.
+	</string>
+    <string name="osm_max_object_menu">Máximo de POIs por URL</string>
+    <string name="search_active_1">Procurar na base de dados</string>
+    <string name="search_active_2">Tocar para terminar procura</string>
+    <string name="search_failed_notification">Procura sem resultados</string>
+    <string name="search_hint">Procurar lugares</string>
+    <string name="set_osm_max_object">Máximo de POIs por URL</string>
+    <string name="source_openstreetmap">Estações nas imediações</string>
+    <string name="speed">Velocidade: </string>
+</resources>

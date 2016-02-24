@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/drawable-ldpi-v4/wikipedia.png",
+        "source": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/drawable-ldpi/wikipedia.png"
+    },
+    {
+        "merged": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/drawable-ldpi-v4/osm.png",
+        "source": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/drawable-ldpi/osm.png"
+    },
+    {
+        "merged": "/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/lewisde/StudioProjects/mixare/mixare/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]
