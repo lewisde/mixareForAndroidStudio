@@ -49,14 +49,14 @@ import android.view.ViewGroup.LayoutParams;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.maps.GeoPoint;
-import com.google.android.gms.maps.ItemizedOverlay;
-import com.google.android.gms.maps.MapActivity;
-import com.google.android.gms.maps.MapController;
-import com.google.android.gms.maps.MapView;
-import com.google.android.gms.maps.Overlay;
-import com.google.android.gms.maps.OverlayItem;
-import com.google.android.gms.maps.Projection;
+import com.google.android.maps.GeoPoint;
+import com.google.android.maps.ItemizedOverlay;
+import com.google.android.maps.MapActivity;
+import com.google.android.maps.MapController;
+import com.google.android.maps.MapView;
+import com.google.android.maps.Overlay;
+import com.google.android.maps.OverlayItem;
+import com.google.android.maps.Projection;
 
 
 /**

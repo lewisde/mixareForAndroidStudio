@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/exploded-aar/mixare/mixarelib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d92fb55d5867475c1cdf848a02cfb401160aaefd">
+        <dex dex="/home/lewisde/StudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/mixare-mixarelib-unspecified_c91ab2718e718fcb232c8b0432061e50cef1d3e5.jar" />
+    </item>
+
+</items>
